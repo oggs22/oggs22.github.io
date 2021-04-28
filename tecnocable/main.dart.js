@@ -54058,14 +54058,14 @@ return M.at(j,M.at(j,T.c8(H.b([o,n,D.a7M(L.bk("Cont\xe1ctanos".toUpperCase(),A.a
 lE:function(){var s=0,r=P.a7(t.z)
 var $async$lE=P.a3(function(a,b){if(a===1)return P.a4(b,r)
 while(true)switch(s){case 0:s=5
-return P.a8(T.a2l("https://wa.me/584126390634"),$async$lE)
+return P.a8(T.a2l("https://www.instagram.com/ltoglia7/"),$async$lE)
 case 5:s=b?2:4
 break
 case 2:s=6
-return P.a8(T.a2O("https://wa.me/584126390634"),$async$lE)
+return P.a8(T.a2O("https://www.instagram.com/ltoglia7/"),$async$lE)
 case 6:s=3
 break
-case 4:throw H.a("Could not launch https://wa.me/584126390634")
+case 4:throw H.a("Could not launch https://www.instagram.com/ltoglia7/")
 case 3:return P.a5(null,r)}})
 return P.a6($async$lE,r)}}
 Z.L8.prototype={
