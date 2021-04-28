@@ -20,7 +20,7 @@ const RESOURCES = {
 "assets/assets/images/background.png": "fc17d9ba3dd1168d580f4ac09e6b2d3f",
 "assets/assets/images/telecommunications.png": "c7c1782d96345286f428be9c6760ce13",
 "assets/assets/images/instagram_header.png": "60f1d84b1fa6119437bbe8a76c6b5001",
-"assets/NOTICES": "21551b50e7f7c386c62b7994c7adedf3",
+"assets/NOTICES": "8bf4c89f3f82361fb8eac87bbaa4c203",
 "assets/FontManifest.json": "90b96a825ed2067a03ba411924deb364",
 "assets/fonts/Poppins-Regular.ttf": "8b6af8e5e8324edfd77af8b3b35d7f9c",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
@@ -28,11 +28,11 @@ const RESOURCES = {
 "assets/AssetManifest.json": "53e82f82c8f7ab46e08791b34e5fa18a",
 "version.json": "59b34045ef8a10d14f81b962c1b142b2",
 "manifest.json": "f8d15d5d07747ea6d65bc2b435c50217",
-"index.html": "065d7cbdec77cecbe3ec21f5b7121f7c",
-"/": "065d7cbdec77cecbe3ec21f5b7121f7c",
+"index.html": "dcfc9c5ec9ce1873124c91857a9ffbf2",
+"/": "dcfc9c5ec9ce1873124c91857a9ffbf2",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"main.dart.js": "f1e234330e184282395015e21b5b1381",
+"main.dart.js": "30bb451295ecd4208e5ef7f9d81f3e9c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
 
