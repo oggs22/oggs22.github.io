@@ -34,12 +34,12 @@ const RESOURCES = {
 "manifest.json": "f8d15d5d07747ea6d65bc2b435c50217",
 "img/tecnocable_favicon.png": "e82300edcad9c5dbf3a771c830359b83",
 "img/splash-logo.png": "aeed4852f08c692a6aa41508651f5cdc",
-"index.html": "b86abeda592a21b862ff1b4e324aac66",
-"/": "b86abeda592a21b862ff1b4e324aac66",
+"index.html": "4e2b6bf898e9d3a433d51f8955e55c3c",
+"/": "4e2b6bf898e9d3a433d51f8955e55c3c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "styles.css": "fbd63375b815e371c4d95cdfacad1a40",
-"main.dart.js": "8bee3bee2b902180ce8f73921d1e872f",
+"main.dart.js": "88ff0820461fae4e3084de2f1b7152c1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
 
